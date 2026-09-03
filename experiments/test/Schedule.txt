@@ -1,0 +1,4 @@
+Phase	Start	End
+Habituation	2026-05-28	2026-06-01
+Priming	2026-06-02	2026-06-03
+AlcoholConsumption	2026-06-08
